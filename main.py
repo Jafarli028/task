@@ -1,1 +1,1 @@
-print('salam bu proqram zordu')
+print('salam mən Kamal Cəfərli')
